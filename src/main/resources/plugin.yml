@@ -1,0 +1,23 @@
+name: LpmcRanks
+version: '${project.version}'
+main: de.littleprogrammer.lpmcranks.Main
+api-version: 1.17
+authors: [ LittleProgrammer ]
+description: The Ranksysteme for LPMC.me
+website: lpmc.me
+commands:
+  rank:
+    aliases:
+      - Rank
+      - Rang
+      - rang
+  db:
+    aliases:
+      - database
+      - datenbank
+
+
+
+
+
+
